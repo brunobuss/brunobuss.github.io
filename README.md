@@ -1,4 +1,4 @@
-My personal blog. You probably want to point your browser to https://brunobuss.github.io to see it :)
+My personal blog. You probably want to point your browser to https://blog.brunobuss.dev to see it :)
 
 ## Tips and Tricks for myself
 
