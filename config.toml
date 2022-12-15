@@ -1,0 +1,27 @@
+baseURL = 'https://brunobuss.dev/'
+languageCode = 'en-us'
+title = 'Sorting Random Bytes'
+theme = 'yinyang'
+
+#[author]
+#name = "Bruno"
+#homepage = "https://brunobuss.dev/"
+
+[params]
+headTitle = 'Sorting Random Bytes'
+mainSections = ["posts"]
+
+#[[params.about]]
+#name = "About"
+#link = "https://brunobuss.dev/about/"
+
+#[[params.socials]]
+#name = "Github"
+#link = "https://github.com/brunobuss"
+
+# Themes for considering:
+# https://themes.gohugo.io/themes/hugo-theme-yinyang/
+# https://themes.gohugo.io/themes/hugo-profile/
+# https://themes.gohugo.io/themes/hugo-theme-console/
+# https://themes.gohugo.io/themes/hugo-theme-shell/
+# https://github.com/wowchemy/wowchemy-hugo-themes
