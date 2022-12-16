@@ -9,6 +9,10 @@ draft: false
 #- GoLang
 ---
 
+As a reminder, you can find:
+  - Part one with day 01 to 05 [here](/posts/2022/12/07/advent-of-code-2022-day-01-to-05-retrospective/)
+  - Github repo with my solutions in Go [here](https://github.com/brunobuss/adventofcode-2022-go)
+
 ### Day 06
 
 This was a nice one as the part two extended very easily from part one if you used a proper data structure,
