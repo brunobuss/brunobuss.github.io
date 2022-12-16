@@ -108,7 +108,7 @@ that we had a gap of coverage in that line and then it was easy to compute the t
 
 ### Wrap Up
 
-I noticed that for half of the [last entry]() and this one now I mostly talked about the algorithmics aspects of the challenges
+I noticed that for half of the [last entry](/posts/2022/12/11/advent-of-code-2022-day-06-to-10-retrospective/) and this one now I mostly talked about the algorithmics aspects of the challenges
 and not much more about Go itself. And I really think this is mostly because I'm having such a good time writting these solutions
 in Go!
 
