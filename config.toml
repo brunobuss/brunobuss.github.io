@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Sorting Random Bytes'
 theme = 'yinyang'
 
+[permalinks]
+  posts = '/:section/:year/:month/:day/:title/'
+
 #[author]
 #name = "Bruno"
 #homepage = "https://brunobuss.dev/"
