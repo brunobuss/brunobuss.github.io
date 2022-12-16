@@ -1,4 +1,4 @@
-baseURL = 'https://brunobuss.dev/'
+baseURL = 'https://blog.brunobuss.dev/'
 languageCode = 'en-us'
 title = 'Sorting Random Bytes'
 theme = 'yinyang'
