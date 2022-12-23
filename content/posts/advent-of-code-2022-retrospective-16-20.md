@@ -4,9 +4,9 @@ date: 2022-12-23
 draft: false
 categories:
 - Programming
-#tags:
-#- AoC
-#- GoLang
+tags:
+- AoC
+- Go
 ---
 
 As a reminder, you can find:

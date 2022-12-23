@@ -4,9 +4,9 @@ date: 2022-12-07
 draft: false
 categories:
 - Programming
-#tags:
-#- AoC
-#- GoLang
+tags:
+- AoC
+- Go
 ---
 
 This is a small retrospective and some notes that I took while doing [the
