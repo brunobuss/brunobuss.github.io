@@ -2,8 +2,8 @@
 title: "Advent of Code 2022 - Day 06 to 10 Retrospective"
 date: 2022-12-11
 draft: false
-#categories:
-#- Programming
+categories:
+- Programming
 #tags:
 #- AoC
 #- GoLang

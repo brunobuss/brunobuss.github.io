@@ -6,6 +6,9 @@ theme = 'yinyang'
 [permalinks]
   posts = '/:section/:year/:month/:day/:title/'
 
+[taxonomies]
+  category = 'categories'
+
 #[author]
 #name = "Bruno"
 #homepage = "https://brunobuss.dev/"
