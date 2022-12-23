@@ -10,15 +10,15 @@ draft: false
 ---
 
 As a reminder, you can find:
-  - Part one with day 01 to 05 [here](/posts/2022/12/07/advent-of-code-2022-day-01-to-05-retrospective/)
-  - Part one with day 06 to 10 [here](/posts/2022/12/11/advent-of-code-2022-day-06-to-10-retrospective/)
+  - Part one with days 01 to 05 [here](/posts/2022/12/07/advent-of-code-2022-day-01-to-05-retrospective/)
+  - Part two with days 06 to 10 [here](/posts/2022/12/11/advent-of-code-2022-day-06-to-10-retrospective/)
   - Github repo with my solutions in Go [here](https://github.com/brunobuss/adventofcode-2022-go)
 
 ### Day 11
 
 This challenge join two things that I usually don't like very much:
-  1 *VERY* annoying input to read/parse.
-  2 Non-sense simulation (unlike the one in day 10 :)
+  1. *VERY* annoying input to read/parse.
+  2. Non-sense simulation (unlike the one in day 10 :)
   
 In order to avoid having to deal with `1` I went ahead to solve the simulation first here.
 

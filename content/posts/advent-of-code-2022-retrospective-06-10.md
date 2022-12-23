@@ -10,7 +10,7 @@ draft: false
 ---
 
 As a reminder, you can find:
-  - Part one with day 01 to 05 [here](/posts/2022/12/07/advent-of-code-2022-day-01-to-05-retrospective/)
+  - Part one with days 01 to 05 [here](/posts/2022/12/07/advent-of-code-2022-day-01-to-05-retrospective/)
   - Github repo with my solutions in Go [here](https://github.com/brunobuss/adventofcode-2022-go)
 
 ### Day 06
