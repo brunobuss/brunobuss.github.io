@@ -18,9 +18,9 @@ theme = 'yinyang'
 headTitle = 'Sorting Random Bytes'
 mainSections = ["posts"]
 
-#[[params.about]]
-#name = "About"
-#link = "https://brunobuss.dev/about/"
+[[params.about]]
+name = "RSS"
+link = "/index.xml"
 
 [[params.socials]]
 name = "GitHub"
