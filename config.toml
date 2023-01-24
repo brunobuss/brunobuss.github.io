@@ -26,6 +26,10 @@ link = "/index.xml"
 name = "GitHub"
 link = "https://github.com/brunobuss"
 
+[[params.socials]]
+name = "LinkedIn"
+link = "https://www.linkedin.com/in/bruno-buss/"
+
 # Themes for considering:
 # https://themes.gohugo.io/themes/hugo-theme-yinyang/
 # https://themes.gohugo.io/themes/hugo-profile/
